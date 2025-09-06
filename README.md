@@ -160,7 +160,7 @@ No Live Deployment implemented.
 - Node 22.19.0
 - npm 10.9.3 
 - NestJS 10.0.0
-- Prisma 6.1.15  
+- Prisma 6.15.0
 - React 18.3.1
 - Vite 5.4.19  
 - TypeScript 5.9.2 
